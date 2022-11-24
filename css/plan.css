@@ -424,3 +424,6 @@ hr {
   background-color: aqua;
   border-radius: 5px;
 }
+.choose__link:hover {
+  background: #66d2cf;
+}
