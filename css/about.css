@@ -264,12 +264,11 @@ main {
   top: -110px;
 }
 .footer {
-  height: 12rem;
+  padding-top: 4.7rem;
+  padding-bottom: 4.8rem;
   background: #2c343e;
 }
 .footer__wrapper {
-  padding-top: 4.7rem;
-  padding-bottom: 4.8rem;
   display: flex;
   align-items: center;
 }
